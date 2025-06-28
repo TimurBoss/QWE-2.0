@@ -1,4 +1,4 @@
-
+print("Загружен конфиг. Владелец Тимурка")
 token = '8120336909:AAGBu8CvLHjVd6jKALcZ8JI0nMlSb6JDd6Y' #  @qwegamebot , @test
 owner_id = 1771886212
 bot_name = "qwegamesbot"
