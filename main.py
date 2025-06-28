@@ -83,7 +83,7 @@ logging.basicConfig(level=logging.INFO)
 
 api = CoinGeckoAPI()
 
-bot = Bot(token=config.token[1])
+bot = Bot(token=config.token[0])
 dp = Dispatcher(bot)
 
 
