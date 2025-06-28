@@ -64,10 +64,10 @@ from commands.user.games.dice import wheel_handler, dice_handler
 
 print(Fore.BLACK + Back.WHITE + """
 -----------------------------------
-| Разработчик: Хаешка             |
+| Разработчик: Тимурка             |
 | Контакты разработчика:          |
-|     Telegram: @haeshka_qwe      |
-|     Instagram: @varseev.fx      |
+|     Telegram: @Timur06034     |
+|     Instagram: @timurpss   |
 -----------------------------------
 |  Скрипт TG BOT: @qwegamebot     |
 -----------------------------------
