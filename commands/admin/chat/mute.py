@@ -3,7 +3,7 @@ from aiogram import types, Bot
 from datetime import datetime, timedelta
 import config
 
-bot = Bot(token=config.token[1])
+bot = Bot(token=config.token[0])
 
 async def unmute_handler(message):
     name1 = message.from_user.get_mention(as_html=True)
