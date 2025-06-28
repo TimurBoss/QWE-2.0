@@ -1,4 +1,5 @@
 # -*-coding: utf-8 -*-
+from config import token
 from aifc import Error
 import logging
 from ntpath import join
